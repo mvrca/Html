@@ -1,6 +1,6 @@
 body{
     height: 100vh;
-    background: linear-gradient(130deg,	#000000,	#3f3c3c);
+    background: linear-gradient(145deg,	#06003e,	#000000);
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: 'Bebas Neue', sans-serif;
@@ -26,7 +26,6 @@ body{
     color:white;
     background-color: rgba(255, 255, 255, 0.1); 
     box-shadow: 0 0 10px #F6160C; /* Sombra ao focar */
-    transition: border-color 0.3s ease, box-shadow 0.3s ease;
   }
 
 .table {
@@ -48,12 +47,6 @@ body{
     height:300px;
     width:300px;
     margin: 0;
-}
-
-.text{
-    align-items: center;
-    justify-content: center;
-    width: 100%;
 }
 
 mark{
