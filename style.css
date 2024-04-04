@@ -58,9 +58,8 @@ mark{
 .borda {
     border: 2px solid;
     border-radius: 20px;
-    margin-top: 100px; /* Espaçamento do topo */
+    margin-top: 12vh; /* Espaçamento do topo */
     border-color: #F6160C;
-    padding:-5px;
     width:100%;
     display: flex;
     align-items: center;
